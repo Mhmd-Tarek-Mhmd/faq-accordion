@@ -81,6 +81,7 @@
   padding-inline: 20px;
   background-color: var(--White);
   font-family: var(--AccordionFontFamily);
+  box-shadow: 0 8px 10px rgb(0 0 0 / 10%);
 
   & .title {
     display: flex;
